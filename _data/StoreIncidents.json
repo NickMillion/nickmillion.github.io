@@ -121,11 +121,6 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "maninblack",
-		"price": 350,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "madanimal",
 		"price": 200,
 		"karmatype": "Bad"
@@ -206,11 +201,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "militaryaid",
-		"price": 700,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "raid",
 		"price": 1500,
 		"karmatype": "Bad"
@@ -236,6 +226,11 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "infestation",
+		"price": 2500,
+		"karmatype": "Bad"
+	},
+	{
 		"abr": "manhunterpack",
 		"price": 1500,
 		"karmatype": "Bad"
@@ -243,6 +238,16 @@
 	{
 		"abr": "predators",
 		"price": 2500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "randomdisease",
+		"price": 1000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "disease",
+		"price": 1000,
 		"karmatype": "Bad"
 	},
 	{
@@ -264,6 +269,16 @@
 		"abr": "trait",
 		"price": 1,
 		"karmatype": "Good"
+	},
+	{
+		"abr": "removetrait",
+		"price": 1,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "genderswap",
+		"price": 600,
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "prisoner",
@@ -342,7 +357,7 @@
 	},
 	{
 		"abr": "passion",
-		"price": 1000,
+		"price": 7000,
 		"karmatype": "Good"
 	},
 	{
@@ -576,5 +591,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 115
+	"total": 118
 }

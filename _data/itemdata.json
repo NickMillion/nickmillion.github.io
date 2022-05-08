@@ -22439,106 +22439,6 @@
     "Mod": "DBH Soldier Apparel",
     "KarmaType": null
   },
-  "D2_Legionarie_PowerArmor": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Destiny - Cabal Armor",
-    "KarmaType": null
-  },
-  "D2_Centurion_PowerArmor": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Destiny - Cabal Armor",
-    "KarmaType": null
-  },
-  "D2_Colossus_PowerArmor": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Destiny - Cabal Armor",
-    "KarmaType": null
-  },
-  "D2_Slug_Rifle": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": true,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Destiny - Cabal Armor",
-    "KarmaType": null
-  },
-  "D2_Heavy_Slug_Thrower": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": true,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Destiny - Cabal Armor",
-    "KarmaType": null
-  },
   "ATK_Leather_Devilhide": {
     "CustomName": null,
     "HasQuantityLimit": false,
@@ -25639,7 +25539,7 @@
     "Mod": "Gemstones",
     "KarmaType": null
   },
-  "yy_ammo_spacer_emp": {
+  "yy_rocket_launcher": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -25656,10 +25556,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Yayo's Combat 3 [Adopted]",
+    "Mod": "Industrial Defense Turrets",
     "KarmaType": null
   },
-  "yy_ammo_spacer_fire": {
+  "yy_defense_turret": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -25676,10 +25576,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Yayo's Combat 3 [Adopted]",
+    "Mod": "Industrial Defense Turrets",
     "KarmaType": null
   },
-  "yy_ammo_spacer": {
+  "yy_towed_artillery": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -25696,10 +25596,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Yayo's Combat 3 [Adopted]",
+    "Mod": "Industrial Defense Turrets",
     "KarmaType": null
   },
-  "yy_ammo_industrial_emp": {
+  "yy_autoblaster": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -25716,10 +25616,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Yayo's Combat 3 [Adopted]",
+    "Mod": "Industrial Defense Turrets",
     "KarmaType": null
   },
-  "yy_ammo_industrial_fire": {
+  "yy_fieldgun": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -25736,7 +25636,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Yayo's Combat 3 [Adopted]",
+    "Mod": "Industrial Defense Turrets",
     "KarmaType": null
   },
   "Uranium_Shell": {
@@ -27339,46 +27239,6 @@
     "Mod": "Medieval Madness: Tools of the Trade",
     "KarmaType": null
   },
-  "MFM_Apparel_USFMBasicShirt": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Mercenaries For Me",
-    "KarmaType": null
-  },
-  "MFM_Apparel_USFMBasicShirtCivil": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Mercenaries For Me",
-    "KarmaType": null
-  },
   "Apparel_FlakGloves": {
     "CustomName": null,
     "HasQuantityLimit": false,
@@ -27719,7 +27579,7 @@
     "Mod": "House Dawn Armory",
     "KarmaType": null
   },
-  "SU_Barrier": {
+  "SU_BarrierSmall": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -27739,7 +27599,27 @@
     "Mod": "Ilya Tech - Core",
     "KarmaType": null
   },
-  "SU_BarrierSmall": {
+  "SU_BarrierMedium": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Ilya Tech - Core",
+    "KarmaType": null
+  },
+  "SU_BarrierLarge": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -27899,6 +27779,46 @@
     "Mod": "Ilya Tech - Core",
     "KarmaType": null
   },
+  "SU_Deus": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Ilya Tech - Core",
+    "KarmaType": null
+  },
+  "SU_Nanosuit": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Ilya Tech - Core",
+    "KarmaType": null
+  },
   "SU_Headhunter": {
     "CustomName": null,
     "HasQuantityLimit": false,
@@ -27959,6 +27879,106 @@
     "Mod": "Ilya Tech - Core",
     "KarmaType": null
   },
+  "SU_Medic": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Ilya Tech - Core",
+    "KarmaType": null
+  },
+  "SU_Patriot": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Ilya Tech - Core",
+    "KarmaType": null
+  },
+  "SU_Hazard": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Ilya Tech - Core",
+    "KarmaType": null
+  },
+  "SU_Lockdown": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Ilya Tech - Core",
+    "KarmaType": null
+  },
+  "SU_Assault": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Ilya Tech - Core",
+    "KarmaType": null
+  },
   "SU_Katalina": {
     "CustomName": null,
     "HasQuantityLimit": false,
@@ -28000,6 +28020,26 @@
     "KarmaType": null
   },
   "SU_Morgante": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Ilya Tech - Core",
+    "KarmaType": null
+  },
+  "SU_Usov": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -28100,6 +28140,26 @@
     "KarmaType": null
   },
   "SU_Federica": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Ilya Tech - Core",
+    "KarmaType": null
+  },
+  "SU_Natasha": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -35679,7 +35739,7 @@
     "Mod": "More Archotech Garbage Reupload",
     "KarmaType": null
   },
-  "yy_ammo_industrial": {
+  "archotechmatteraddingsomecraptoavoidproblems": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -35689,14 +35749,14 @@
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
-    "IsUsable": true,
+    "IsUsable": false,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Yayo's Combat 3 [Adopted]",
+    "Mod": "More Archotech Garbage Reupload",
     "KarmaType": null
   },
   "ArchotechVanometricStomach": {
@@ -42339,7 +42399,7 @@
     "Mod": "RT Solar Flare Shield",
     "KarmaType": null
   },
-  "yy_ammo_primitive_emp": {
+  "sixdd_BasketSingle": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -42356,30 +42416,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Yayo's Combat 3 [Adopted]",
+    "Mod": "Little Storage 2",
     "KarmaType": null
   },
-  "yy_ammo_primitive_fire": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Yayo's Combat 3 [Adopted]",
-    "KarmaType": null
-  },
-  "sixdd_DeepShelfSingle": {
+  "sixdd_TrayRackSingle": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -42400,6 +42440,26 @@
     "KarmaType": null
   },
   "sixdd_FabricHamperSingle": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Little Storage 2",
+    "KarmaType": null
+  },
+  "sixdd_DeepShelfSingle": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -64039,7 +64099,7 @@
     "Mod": "Vanilla Factions Expanded - Ancients",
     "KarmaType": null
   },
-  "sixdd_TrayRackSingle": {
+  "yy_ammo_primitive_fire": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -64056,10 +64116,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Little Storage 2",
+    "Mod": "Yayo's Combat 3 [Adopted]",
     "KarmaType": null
   },
-  "sixdd_BasketSingle": {
+  "yy_ammo_primitive_emp": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -64076,30 +64136,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Little Storage 2",
+    "Mod": "Yayo's Combat 3 [Adopted]",
     "KarmaType": null
   },
-  "archotechmatteraddingsomecraptoavoidproblems": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "More Archotech Garbage Reupload",
-    "KarmaType": null
-  },
-  "yy_fieldgun": {
+  "yy_ammo_industrial": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -64116,10 +64156,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Industrial Defense Turrets",
+    "Mod": "Yayo's Combat 3 [Adopted]",
     "KarmaType": null
   },
-  "yy_autoblaster": {
+  "yy_ammo_industrial_fire": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -64136,10 +64176,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Industrial Defense Turrets",
+    "Mod": "Yayo's Combat 3 [Adopted]",
     "KarmaType": null
   },
-  "yy_towed_artillery": {
+  "yy_ammo_industrial_emp": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -64156,10 +64196,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Industrial Defense Turrets",
+    "Mod": "Yayo's Combat 3 [Adopted]",
     "KarmaType": null
   },
-  "yy_defense_turret": {
+  "yy_ammo_spacer": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -64176,10 +64216,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Industrial Defense Turrets",
+    "Mod": "Yayo's Combat 3 [Adopted]",
     "KarmaType": null
   },
-  "yy_rocket_launcher": {
+  "yy_ammo_spacer_fire": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -64196,7 +64236,27 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Industrial Defense Turrets",
+    "Mod": "Yayo's Combat 3 [Adopted]",
+    "KarmaType": null
+  },
+  "yy_ammo_spacer_emp": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Yayo's Combat 3 [Adopted]",
     "KarmaType": null
   },
   "Gun_AntiArmor_Rocket": {
@@ -70177,6 +70237,26 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "RimWorld",
+    "KarmaType": null
+  },
+  "Zombrella": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Character Editor",
     "KarmaType": null
   }
 }
