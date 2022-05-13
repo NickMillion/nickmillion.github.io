@@ -486,6 +486,26 @@
 		"karmatype": "Doom"
 	},
 	{
+		"abr": "factionwar",
+		"price": 1500,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "factionsiege",
+		"price": 1500,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "factioncontention",
+		"price": 1500,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "factioncamp",
+		"price": 1500,
+		"karmatype": "Neutral"
+	},
+	{
 		"abr": "raidpoachers",
 		"price": 1000,
 		"karmatype": "Bad"
@@ -591,5 +611,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 118
+	"total": 122
 }
