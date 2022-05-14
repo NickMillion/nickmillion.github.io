@@ -21437,7 +21437,439 @@
 		"price": 333,
 		"category": "Ranged weapons",
 		"defname": "Gun_RatStick"
-	}
+	},
+	{
+		"abr": "advancedholodeck",
+		"price": 3275,
+		"category": "Recreation",
+		"defname": "Holodeck_Standard"
+	},
+	{
+		"abr": "afterlifecasket",
+		"price": 3575,
+		"category": "Buildings",
+		"defname": "Ship_AvatarCasket"
+	},
+	{
+		"abr": "antigraintorpedo",
+		"price": 2500,
+		"category": "Torpedoes",
+		"defname": "ShipTorpedo_Antimatter"
+	},
+	{
+		"abr": "archocat",
+		"price": 1667,
+		"category": "Animals",
+		"defname": "Archocat"
+	},
+	{
+		"abr": "archoffalo",
+		"price": 1667,
+		"category": "Animals",
+		"defname": "Archoffalo"
+	},
+	{
+		"abr": "archojerboa",
+		"price": 1667,
+		"category": "Animals",
+		"defname": "Archojerboa"
+	},
+	{
+		"abr": "archolifepod",
+		"price": 1667,
+		"category": "Items",
+		"defname": "ArcholifePod"
+	},
+	{
+		"abr": "archolope",
+		"price": 1667,
+		"category": "Animals",
+		"defname": "Archolope"
+	},
+	{
+		"abr": "archomutt",
+		"price": 1667,
+		"category": "Animals",
+		"defname": "Archomutt"
+	},
+	{
+		"abr": "archopanda",
+		"price": 1667,
+		"category": "Animals",
+		"defname": "Archopanda"
+	},
+	{
+		"abr": "archospider",
+		"price": 1667,
+		"category": "Animals",
+		"defname": "Archospider"
+	},
+	{
+		"abr": "archostrich",
+		"price": 1667,
+		"category": "Animals",
+		"defname": "Archostrich"
+	},
+	{
+		"abr": "archostrichegg(fert.)",
+		"price": 167,
+		"category": "Eggs (fert.)",
+		"defname": "EggArchostrichFertilized"
+	},
+	{
+		"abr": "archostrichegg(unfert.)",
+		"price": 38,
+		"category": "Eggs (unfert.)",
+		"defname": "EggArchostrichUnfertilized"
+	},
+	{
+		"abr": "archotechear",
+		"price": 2000,
+		"category": "Archotech",
+		"defname": "SoSArchotechEar"
+	},
+	{
+		"abr": "archotechheart",
+		"price": 4667,
+		"category": "Archotech",
+		"defname": "SoSArchotechHeart"
+	},
+	{
+		"abr": "archotechjaw",
+		"price": 3667,
+		"category": "Archotech",
+		"defname": "SoSArchotechJaw"
+	},
+	{
+		"abr": "archotechkidney",
+		"price": 3667,
+		"category": "Archotech",
+		"defname": "SoSArchotechKidney"
+	},
+	{
+		"abr": "archotechliver",
+		"price": 3667,
+		"category": "Archotech",
+		"defname": "SoSArchotechLiver"
+	},
+	{
+		"abr": "archotechlung",
+		"price": 4667,
+		"category": "Archotech",
+		"defname": "SoSArchotechLung"
+	},
+	{
+		"abr": "archotechnose",
+		"price": 3667,
+		"category": "Archotech",
+		"defname": "SoSArchotechNose"
+	},
+	{
+		"abr": "archotechpillaralpha",
+		"price": 16783,
+		"category": "Misc",
+		"defname": "ShipArchotechPillarA"
+	},
+	{
+		"abr": "archotechpillarbeta",
+		"price": 16783,
+		"category": "Misc",
+		"defname": "ShipArchotechPillarB"
+	},
+	{
+		"abr": "archotechpillardelta",
+		"price": 16783,
+		"category": "Misc",
+		"defname": "ShipArchotechPillarD"
+	},
+	{
+		"abr": "archotechpillargamma",
+		"price": 16783,
+		"category": "Misc",
+		"defname": "ShipArchotechPillarC"
+	},
+	{
+		"abr": "archotechskin",
+		"price": 4667,
+		"category": "Archotech",
+		"defname": "SoSArchotechSkin"
+	},
+	{
+		"abr": "archotechspine",
+		"price": 4667,
+		"category": "Archotech",
+		"defname": "SoSArchotechSpine"
+	},
+	{
+		"abr": "archotechstomach",
+		"price": 4667,
+		"category": "Archotech",
+		"defname": "SoSArchotechStomach"
+	},
+	{
+		"abr": "archotechuplink",
+		"price": 8542,
+		"category": "Misc",
+		"defname": "ArchotechUplink"
+	},
+	{
+		"abr": "archothrumbo",
+		"price": 16667,
+		"category": "Animals",
+		"defname": "Archothrumbo"
+	},
+	{
+		"abr": "archotortoise",
+		"price": 1667,
+		"category": "Animals",
+		"defname": "Archotortoise"
+	},
+	{
+		"abr": "archotortoiseegg(fert.)",
+		"price": 38,
+		"category": "Eggs (fert.)",
+		"defname": "EggArchotortoiseFertilized"
+	},
+	{
+		"abr": "astromite",
+		"price": 167,
+		"category": "Animals",
+		"defname": "Astromite"
+	},
+	{
+		"abr": "basicholodeck",
+		"price": 1792,
+		"category": "Recreation",
+		"defname": "Holodeck_Basic"
+	},
+	{
+		"abr": "cargoshuttle",
+		"price": 3925,
+		"category": "Furniture",
+		"defname": "CargoShuttle"
+	},
+	{
+		"abr": "cargoshuttle(hovermode)",
+		"price": 7500,
+		"category": "Animal",
+		"defname": "ShuttleCargoRace"
+	},
+	{
+		"abr": "cosmopillar",
+		"price": 833,
+		"category": "Animals",
+		"defname": "Cosmopillar"
+	},
+	{
+		"abr": "emptorpedo",
+		"price": 433,
+		"category": "Torpedoes",
+		"defname": "ShipTorpedo_EMP"
+	},
+	{
+		"abr": "entanglementmanifold",
+		"price": 6667,
+		"category": "Items",
+		"defname": "SoSEntanglementManifold"
+	},
+	{
+		"abr": "evahelmet",
+		"price": 675,
+		"category": "Headgear",
+		"defname": "Apparel_SpaceSuitHelmet"
+	},
+	{
+		"abr": "evasuit",
+		"price": 1150,
+		"category": "Armor",
+		"defname": "Apparel_SpaceSuitBody"
+	},
+	{
+		"abr": "exoticparticles",
+		"price": 167,
+		"category": "Items",
+		"defname": "ArchotechExoticParticles"
+	},
+	{
+		"abr": "feralrifle",
+		"price": 592,
+		"category": "Ranged weapons",
+		"defname": "Gun_Thrasher"
+	},
+	{
+		"abr": "feralrocketlauncher",
+		"price": 667,
+		"category": "Ranged weapons",
+		"defname": "Gun_Thumper"
+	},
+	{
+		"abr": "feralscattergun",
+		"price": 233,
+		"category": "Ranged weapons",
+		"defname": "Gun_ScatterStick"
+	},
+	{
+		"abr": "feralsubmachineguns",
+		"price": 467,
+		"category": "Ranged weapons",
+		"defname": "Gun_Deathdealer"
+	},
+	{
+		"abr": "foerum",
+		"price": 11,
+		"category": "Raw resources",
+		"defname": "Foerum"
+	},
+	{
+		"abr": "glaive",
+		"price": 358,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_FeralGlaive"
+	},
+	{
+		"abr": "heatprojector",
+		"price": 2908,
+		"category": "Federation weapons",
+		"defname": "AD_HeatProjector"
+	},
+	{
+		"abr": "heavycargoshuttle",
+		"price": 6292,
+		"category": "Furniture",
+		"defname": "HeavyShuttle"
+	},
+	{
+		"abr": "heavycargoshuttle(hovermode)",
+		"price": 16667,
+		"category": "Animal",
+		"defname": "ShuttleHeavyRace"
+	},
+	{
+		"abr": "heavyevahelmet",
+		"price": 1500,
+		"category": "Headgear",
+		"defname": "Apparel_SpaceSuitHelmetHeavy"
+	},
+	{
+		"abr": "heavyevasuit",
+		"price": 4117,
+		"category": "Armor",
+		"defname": "Apparel_SpaceSuitBodyHeavy"
+	},
+	{
+		"abr": "high-explosivetorpedo",
+		"price": 433,
+		"category": "Torpedoes",
+		"defname": "ShipTorpedo_HighExplosive"
+	},
+	{
+		"abr": "hologramrelay",
+		"price": 783,
+		"category": "Buildings",
+		"defname": "Ship_HologramRelay"
+	},
+	{
+		"abr": "hullfoamcanister",
+		"price": 33,
+		"category": "Items",
+		"defname": "HullFoam"
+	},
+	{
+		"abr": "madness",
+		"price": 2117,
+		"category": "Ranged weapons",
+		"defname": "Weapon_MADness"
+	},
+	{
+		"abr": "makeshiftcruciblerifle",
+		"price": 408,
+		"category": "Ranged weapons",
+		"defname": "Gun_MCrucibleRifle"
+	},
+	{
+		"abr": "marksmangear",
+		"price": 2258,
+		"category": "Apparel",
+		"defname": "Apparel_MarksmanGear"
+	},
+	{
+		"abr": "marksmangearhelmet",
+		"price": 975,
+		"category": "Headgear",
+		"defname": "Apparel_MarksmanGearH"
+	},
+	{
+		"abr": "mechanitecocktails",
+		"price": 1675,
+		"category": "Grenades",
+		"defname": "Weapon_GrenadeMechanite"
+	},
+	{
+		"abr": "mechanitedisassemblercore",
+		"price": 6667,
+		"category": "Items",
+		"defname": "ArchotechMechaniteCore"
+	},
+	{
+		"abr": "mechaniterepairgel",
+		"price": 833,
+		"category": "Items",
+		"defname": "ArchotechRepairGel"
+	},
+	{
+		"abr": "minimalshipbridge",
+		"price": 425,
+		"category": "Furniture",
+		"defname": "ShipPilotSeatMini"
+	},
+	{
+		"abr": "patchedshirt",
+		"price": 167,
+		"category": "Apparel",
+		"defname": "Apparel_PatchedShirt"
+	},
+	{
+		"abr": "personalshuttle",
+		"price": 1792,
+		"category": "Furniture",
+		"defname": "PersonalShuttle"
+	},
+	{
+		"abr": "personalshuttle(hovermode)",
+		"price": 2500,
+		"category": "Animal",
+		"defname": "ShuttlePersonalRace"
+	},
+	{
+		"abr": "plasmacaliver",
+		"price": 4942,
+		"category": "Federation weapons",
+		"defname": "AD_PlasmaCaliver"
+	},
+	{
+		"abr": "plasmagrenade",
+		"price": 1500,
+		"category": "Grenades",
+		"defname": "AD_FedPlasmaGrenades"
+	},
+	{
+		"abr": "plasmarifle",
+		"price": 4817,
+		"category": "Federation weapons",
+		"defname": "AD_Sentinel"
+	},
+	{
+		"abr": "portablehologramrelay",
+		"price": 1417,
+		"category": "Utility",
+		"defname": "Apparel_HologramRelay"
+	},
+	{
+		"abr": "psychicflayercore",
+		"price": 6667,
+		"category": "Items",
+		"defname": "ArchotechPsychicCore"
+	},
 	],
-	"total": 3596
+	"total": 3668
 }

@@ -774,6 +774,12 @@
     "version": null
   },
   {
+    "author": "m00nl1ght-dev",
+    "name": "Map Preview",
+    "steamId": "2800857642",
+    "version": "0.0.0.0"
+  },
+  {
     "author": "Uuugggg",
     "name": "Meals On Wheels",
     "steamId": "1323773476",
@@ -1482,6 +1488,18 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki,  Kikohi and  Helixien",
+    "name": "Vanilla Events Expanded",
+    "steamId": "1938420742",
+    "version": "1.1.0"
+  },
+  {
+    "author": "Kentington and Thain",
+    "name": "Save Our Ship 2",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Oskar Potocki,  Trunken and  Sarg Bjornson",
     "name": "Vanilla Armour Expanded",
     "steamId": null,
@@ -1782,12 +1800,6 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki,  Kikohi and  Helixien",
-    "name": "Vanilla Events Expanded",
-    "steamId": "1938420742",
-    "version": "1.1.0"
-  },
-  {
     "author": "Oskar Potocki,  Trunken and  Sarg Bjornson",
     "name": "Vanilla Weapons Expanded",
     "steamId": null,
@@ -1972,6 +1984,12 @@
     "name": "Vanilla Social Interactions Expanded",
     "steamId": "2439736083",
     "version": "1.0.0.1"
+  },
+  {
+    "author": "Oskar Potocki,  ISOREX and  xrushha",
+    "name": "Vanilla Textures Expanded - Save Our Ship 2",
+    "steamId": "2805433179",
+    "version": "0.0.0.0"
   },
   {
     "author": "Oskar Potocki and  Taranchuk",
@@ -2278,12 +2296,6 @@
     "name": "[SYR] Essentials: Stone",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Syrchalis",
-    "name": "[SYR] Set Up Camp",
-    "steamId": "1470065926",
-    "version": "1.0.0.0"
   },
   {
     "author": "Krkr",
