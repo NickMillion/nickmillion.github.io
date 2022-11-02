@@ -1219,7 +1219,7 @@
     "description": null,
     "name": "hello",
     "usage": "!hello",
-    "userLevel": 0,
+    "userLevel": 3,
     "shortcut": false,
     "defName": "HelloWorld"
   }
