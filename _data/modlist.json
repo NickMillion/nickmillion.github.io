@@ -114,12 +114,6 @@
     "version": "1.0.8316.17234"
   },
   {
-    "author": "marcin212",
-    "name": "Architect Icons",
-    "steamId": "1195427067",
-    "version": "1.2.0.0"
-  },
-  {
     "author": "Teok25",
     "name": "Archotech Expanded",
     "steamId": null,
@@ -150,6 +144,12 @@
     "version": "1.7"
   },
   {
+    "author": "Nephlite",
+    "name": "Better Explosions",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Machine",
     "name": "Better Infestations 1.4",
     "steamId": "1319614331",
@@ -166,18 +166,6 @@
     "name": "Better Orbital Trader Names",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Roolo",
-    "name": "Dual Wield",
-    "steamId": "1628211313",
-    "version": "0.5.0.0"
-  },
-  {
-    "author": "Mlie",
-    "name": "Better Projectile Origin",
-    "steamId": "2843040075",
-    "version": "1.4.1"
   },
   {
     "author": "Aelanna",
@@ -231,7 +219,13 @@
     "author": "Andreas Pardeike",
     "name": "Camera+",
     "steamId": "867467808",
-    "version": "2.4.1.0"
+    "version": "2.5.1.0"
+  },
+  {
+    "author": "Kopp",
+    "name": "Caravan Item Selection Enhanced",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "JovianPug",
@@ -243,7 +237,7 @@
     "author": "void",
     "name": "Character Editor",
     "steamId": "1874644848",
-    "version": "1.4.1111.0"
+    "version": "1.4.1113.0"
   },
   {
     "author": "Neronix17",
@@ -264,22 +258,22 @@
     "version": "1.4.1"
   },
   {
-    "author": "DaLLaN",
-    "name": "Combat Update 1.4",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Lupine Witch",
     "name": "Configurable Shelf Capacity",
     "steamId": "2872105813",
     "version": "0.1.0.0"
   },
   {
+    "author": "Sea",
+    "name": "Consistent Gene Inheritance",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Mlie",
     "name": "Custom Prisoner Interactions",
     "steamId": "2841231775",
-    "version": "1.4.1"
+    "version": "1.4.2"
   },
   {
     "author": "Ogam",
@@ -396,18 +390,6 @@
     "version": "1.4.1"
   },
   {
-    "author": "Imranfish",
-    "name": "XML Extensions",
-    "steamId": "2574315206",
-    "version": "1.7.0"
-  },
-  {
-    "author": "Victorique, Aurani and Tarojun",
-    "name": "Expanded Prosthetics and Organ Engineering - Forked",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Unidentified",
     "name": "Faction Icons",
     "steamId": null,
@@ -456,10 +438,22 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Iwo Rosiak",
+    "name": "Holsters",
+    "steamId": "2610120706",
+    "version": "2.0.9"
+  },
+  {
     "author": "Mlie",
     "name": "I Clearly Have Enough! (Continued)",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Murmur",
+    "name": "Incident Disabler",
+    "steamId": "2347633285",
+    "version": "1.0.0.0"
   },
   {
     "author": "Murmur",
@@ -496,6 +490,24 @@
     "name": "LagFix",
     "steamId": "2874552927",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Imranfish",
+    "name": "XML Extensions",
+    "steamId": "2574315206",
+    "version": "1.7.0"
+  },
+  {
+    "author": "Victorique, Aurani and Tarojun",
+    "name": "Expanded Prosthetics and Organ Engineering - Forked",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mlie",
+    "name": "Less Arbitrary Surgery (Continued)",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Mlie",
@@ -636,6 +648,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "SaberShip",
+    "name": "No Precipitation Over Fog Of War",
+    "steamId": "2836618393",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Zylle",
     "name": "No Starting Research",
     "steamId": null,
@@ -712,6 +730,18 @@
     "name": "Optimization: Meats - C# Edition",
     "steamId": "2542931556",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "marcin212",
+    "name": "Architect Icons",
+    "steamId": "1195427067",
+    "version": "1.2.0.0"
+  },
+  {
+    "author": "Proxyer",
+    "name": "Optional Icons for Architect Icons",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Murmur",
@@ -912,6 +942,12 @@
     "version": null
   },
   {
+    "author": "SomewhereOutInSpace",
+    "name": "Rimsential - Spaceports",
+    "steamId": "2663999215",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Mlie",
     "name": "Run and Hide (Continued)",
     "steamId": null,
@@ -928,6 +964,12 @@
     "name": "Safely Hidden Away",
     "steamId": "1322196379",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "AUTOMATIC and BlackFox",
+    "name": "Trader ships",
+    "steamId": "2883896071",
+    "version": "1.0.350.0854"
   },
   {
     "author": "Oskar Potocki and Trunken",
@@ -1020,6 +1062,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "ChJees",
+    "name": "Supreme Melee (Continued)",
+    "steamId": "2311299987",
+    "version": "1.4.1"
+  },
+  {
     "author": "Oblitus",
     "name": "Sync Growth",
     "steamId": "2392562136",
@@ -1078,6 +1126,12 @@
     "name": "TwitchToolkit - Lootboxes (Unofficial)",
     "steamId": "1720021578",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "MarvinKosh",
+    "name": "Ugh You Got Me",
+    "steamId": "1542424705",
+    "version": "1.0.8325.19264"
   },
   {
     "author": "Paragon",
@@ -1352,6 +1406,12 @@
   {
     "author": "Smuffle",
     "name": "Harvest Organs Post Mortem",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Orion",
+    "name": "Hospitality",
     "steamId": null,
     "version": null
   },
