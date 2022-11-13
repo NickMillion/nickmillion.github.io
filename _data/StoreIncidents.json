@@ -156,11 +156,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "disease",
-		"price": 1000,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "reviveanypawn",
 		"price": 1200,
 		"karmatype": "Good"
@@ -257,7 +252,7 @@
 	},
 	{
 		"abr": "passion",
-		"price": 500,
+		"price": 1000,
 		"karmatype": "Good"
 	},
 	{
@@ -316,5 +311,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 63
+	"total": 62
 }
