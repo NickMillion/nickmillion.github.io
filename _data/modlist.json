@@ -63,7 +63,7 @@
     "author": "Little White Mouse",
     "name": "LWM's Deep Storage",
     "steamId": "1617282896",
-    "version": "1.4.0.6"
+    "version": "1.4.0.7"
   },
   {
     "author": "JangoD'soul",
@@ -82,18 +82,6 @@
     "name": "All Memories Fade",
     "steamId": "2800155563",
     "version": "1.4.1"
-  },
-  {
-    "author": "Orange Peel Assassin",
-    "name": "All Specialists Can Work",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Roolo",
-    "name": "Almost There!",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Oskar Potocki and Smash Phil",
@@ -138,6 +126,30 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Orange Peel Assassin",
+    "name": "All Specialists Can Work",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "Allow Tool",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Roolo",
+    "name": "Almost There!",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Allie and Sarg",
+    "name": "Alpha Genes",
+    "steamId": "2891845502",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Oblitus",
     "name": "Animals Logic",
     "steamId": "1098354593",
@@ -154,6 +166,24 @@
     "name": "Backup Power",
     "steamId": "2084493662",
     "version": "1.10.175"
+  },
+  {
+    "author": "PeteTimesSix",
+    "name": "Research Reinvented",
+    "steamId": "2868392160",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Imranfish",
+    "name": "XML Extensions",
+    "steamId": "2574315206",
+    "version": "1.7.0"
+  },
+  {
+    "author": "PeteTimesSix",
+    "name": "Research Reinvented: Stepping Stones",
+    "steamId": "2868389782",
+    "version": "1.0.0.0"
   },
   {
     "author": "ILuvSilicon",
@@ -438,12 +468,6 @@
     "version": "1.0.0"
   },
   {
-    "author": "UnlimitedHugs",
-    "name": "Allow Tool",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Dubwise",
     "name": "Dubs Mint Menus",
     "steamId": "1446523594",
@@ -630,12 +654,6 @@
     "version": null
   },
   {
-    "author": "Imranfish",
-    "name": "XML Extensions",
-    "steamId": "2574315206",
-    "version": "1.7.0"
-  },
-  {
     "author": "Oken",
     "name": "Integrated Deep Storage",
     "steamId": null,
@@ -760,12 +778,6 @@
     "name": "Machines of War",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "PeteTimesSix",
-    "name": "Research Reinvented",
-    "steamId": "2868392160",
-    "version": "1.0.0.0"
   },
   {
     "author": "legodude17 and Oskar Potocki",
@@ -996,6 +1008,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Helixien",
+    "name": "ReGrowth: Extinct Animals",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "SeoHyeon",
     "name": "Optimization: Meats - C# Edition",
     "steamId": "2542931556",
@@ -1159,12 +1177,6 @@
   },
   {
     "author": "Helixien",
-    "name": "ReGrowth: Extinct Animals",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Helixien",
     "name": "ReGrowth: Swamp",
     "steamId": null,
     "version": null
@@ -1222,12 +1234,6 @@
     "name": "Replace Stuff",
     "steamId": "1372003680",
     "version": "1.1.0.0"
-  },
-  {
-    "author": "PeteTimesSix",
-    "name": "Research Reinvented: Stepping Stones",
-    "steamId": "2868389782",
-    "version": "1.0.0.0"
   },
   {
     "author": "VinaLx and Owlchemist",
