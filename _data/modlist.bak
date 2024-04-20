@@ -153,7 +153,7 @@
     "author": "void",
     "name": "Character Editor",
     "steamId": "1874644848",
-    "version": "1.5.6.0"
+    "version": "1.5.5.0"
   },
   {
     "author": "Kopp",
@@ -232,12 +232,6 @@
     "name": "DragSelect",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "avilmask",
-    "name": "Common Sense",
-    "steamId": "1561769193",
-    "version": "1.0.8875.40322"
   },
   {
     "author": "Dubwise",
@@ -591,7 +585,7 @@
     "author": "Neronix17",
     "name": "Tweaks Galore",
     "steamId": "2695164414",
-    "version": "3.0.8875.32986"
+    "version": "3.0.8872.2595"
   },
   {
     "author": "Oskar Potocki, Trunken and Sarg",
@@ -712,6 +706,12 @@
     "name": "Phase Weaponry",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Mehni",
+    "name": "Pick Up And Haul",
+    "steamId": "1279012058",
+    "version": "1.0.0+9f86e76c731e01a0010144331d5dc54c9b5f8a37"
   },
   {
     "author": "Usagirei",
@@ -850,12 +850,6 @@
     "name": "Scenario Searchbars",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": " Original author: Captain Muscles (Nathan Harbour)\n    Since 1.4: GrobmotoriGER\n    ",
-    "name": "Semi Random Research (Unofficial)",
-    "steamId": "2879094186",
-    "version": "1.1.2"
   },
   {
     "author": "Lanilor and Proxyer",
@@ -1056,18 +1050,6 @@
     "version": "1.1.0.0"
   },
   {
-    "author": "Mehni",
-    "name": "Pick Up And Haul",
-    "steamId": "1279012058",
-    "version": "1.0.0+9f86e76c731e01a0010144331d5dc54c9b5f8a37"
-  },
-  {
-    "author": "CodeOptimist",
-    "name": "While You're Up (with add-on for PUAH)",
-    "steamId": "2034960453",
-    "version": "4.0.6.5399+940962909e038e7f989abb2a2e979e6b0a3338bf"
-  },
-  {
     "author": "RedMattis",
     "name": "Wololoo - Better Conversion and Recruitment",
     "steamId": "3108763487",
@@ -1168,12 +1150,6 @@
     "name": "[FSF] FrozenSnowFox Tweaks",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Cavenaugh",
-    "name": "[KV] Call Trade Ships [1.5 Patched]",
-    "steamId": "3226502149",
-    "version": "1.0.0.0"
   },
   {
     "author": "erdelf (original) & Kiame (support)",
