@@ -8473,6 +8473,34 @@
       },
       "defName": "VFEP_WarcasketTrait_Mech",
       "name": "mechwarcasket"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy detests manual labor, feeling that tasks such as cleaning and hauling are beneath him. he will perform such tasks more slowly than others would, and will also carry less per load when required to haul.",
+      "stats": [
+        "-20% general labor speed",
+        "-25 carrying capacity"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "-20% general labor speed",
+          "-25 carrying capacity"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "More Than Capable (1.5)",
+        "karmaTypeForAdding": null
+      },
+      "defName": "HatesDumbLabor",
+      "name": "hatesdumblabor"
     }
   ],
   "races": [
