@@ -2144,34 +2144,6 @@
       "addPrice": 5000,
       "removePrice": 7500,
       "degree": 0,
-      "description": "Timmy knows the spirit of all arms. If he is not bonded to a weapon already, upon equipping a non-biocodable melee weapon, it will generate a single persona weapon trait and will bond to them. Should Timmy ever unequip the weapon, it will lose these traits.",
-      "stats": [
-        "+4 melee",
-        "+2.5 melee hit chance"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+4 melee",
-          "+2.5 melee hit chance"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "More Persona Traits",
-        "karmaTypeForAdding": null
-      },
-      "defName": "MPT_BladeWhisperer",
-      "name": "bladewhisperer"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 5000,
-      "removePrice": 7500,
-      "degree": 0,
       "description": "Timmy tends to occasionally allow their mind to drift, even in the middle of working.",
       "stats": [
         "x50% global certainty loss factor"
@@ -3141,12 +3113,16 @@
       "removePrice": 7500,
       "degree": 0,
       "description": "The mountains call to Timmy. he feels happier just being near a large mountain.",
-      "stats": [],
+      "stats": [
+        "Natural meditation focus type allowed."
+      ],
       "conflicts": [],
       "bypassLimit": false,
       "data": {
         "conflicts": [],
-        "stats": [],
+        "stats": [
+          "Natural meditation focus type allowed."
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -3706,7 +3682,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_Nearsighted",
@@ -3746,7 +3722,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_Farsighted",
@@ -3778,7 +3754,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_Athletic",
@@ -3810,7 +3786,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_Stiff",
@@ -3840,7 +3816,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_GoodHygiene",
@@ -3870,7 +3846,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_PoorHygiene",
@@ -3902,7 +3878,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_Persuasive",
@@ -3934,7 +3910,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_Unconvincing",
@@ -3968,7 +3944,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_Resilient",
@@ -4004,7 +3980,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_Fragile",
@@ -4036,7 +4012,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_Energetic",
@@ -4068,7 +4044,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_Sluggish",
@@ -4098,7 +4074,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_Restful",
@@ -4128,7 +4104,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_Restless",
@@ -4160,7 +4136,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_Efficient",
@@ -4192,7 +4168,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_Inefficient",
@@ -4224,7 +4200,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_Valiant",
@@ -4256,7 +4232,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_Craven",
@@ -4286,7 +4262,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_Rowdy",
@@ -4316,7 +4292,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_Composed",
@@ -4350,7 +4326,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_HeatTolerant",
@@ -4384,7 +4360,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_HeatIntolerant",
@@ -4418,7 +4394,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_ColdTolerant",
@@ -4452,7 +4428,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_ColdIntolerant",
@@ -4484,7 +4460,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_Muscular",
@@ -4516,7 +4492,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_Frail",
@@ -4542,7 +4518,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_Abstinent",
@@ -4568,7 +4544,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_Ravenous",
@@ -4620,7 +4596,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_Gifted",
@@ -4672,7 +4648,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_Incompetent",
@@ -4704,7 +4680,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_PatientCook",
@@ -4736,7 +4712,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_ImpatientCook",
@@ -4776,7 +4752,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_Healthy",
@@ -4816,7 +4792,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_ChronicallyIll",
@@ -4852,7 +4828,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_TemperatureTolerant",
@@ -4888,7 +4864,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_TemperatureIntolerant",
@@ -4922,7 +4898,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_Coordinated",
@@ -4956,7 +4932,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_Clumsy",
@@ -4998,7 +4974,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_Hardy",
@@ -5042,7 +5018,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_Feeble",
@@ -5072,7 +5048,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_EasilyAmused",
@@ -5102,7 +5078,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_ConstantlyBemused",
@@ -5134,7 +5110,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_Inquisitive",
@@ -5166,7 +5142,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_Ignorant",
@@ -5200,7 +5176,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_Tidy",
@@ -5234,7 +5210,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "RimTraits - General Traits",
+        "mod": "RimTraits: General Traits",
         "karmaTypeForAdding": null
       },
       "defName": "RT_Messy",
@@ -8501,6 +8477,230 @@
       },
       "defName": "HatesDumbLabor",
       "name": "hatesdumblabor"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy has extensive experience in construction and crafting. he will work faster than others and nearly always succeed at construction and repairs.",
+      "stats": [
+        "+25% construction speed",
+        "+25% construct success chance",
+        "+25% repair success chance",
+        "+25% smoothing speed",
+        "+25% smelting speed",
+        "+25% general labor speed"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+25% construction speed",
+          "+25% construct success chance",
+          "+25% repair success chance",
+          "+25% smoothing speed",
+          "+25% smelting speed",
+          "+25% general labor speed"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Integrated Creep Joiners",
+        "karmaTypeForAdding": null
+      },
+      "defName": "MasterCraftsmanTrait",
+      "name": "craftsmaster"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy has extensive experience in cooking. he will cook faster than others and never cause food poisoning.",
+      "stats": [
+        "+5.0 cooking speed",
+        "-100.00% food poison chance"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+5.0 cooking speed",
+          "-100.00% food poison chance"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Integrated Creep Joiners",
+        "karmaTypeForAdding": null
+      },
+      "defName": "MasterCookTrait",
+      "name": "masterchef"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is predisposed towards violence and will frequently try to harm others.",
+      "stats": [
+        "Morbid meditation focus type allowed."
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "Morbid meditation focus type allowed."
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Integrated Creep Joiners",
+        "karmaTypeForAdding": null
+      },
+      "defName": "ViolentMind",
+      "name": "violentmind"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy has a gentle and cool-headed nature. he is less likely to insult others or starts fights, and will sometimes cheer up others.",
+      "stats": [
+        "-20% mental break threshold"
+      ],
+      "conflicts": [
+        "abrasive",
+        "kind",
+        "psychopath"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "abrasive",
+          "kind",
+          "psychopath"
+        ],
+        "stats": [
+          "-20% mental break threshold"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small - Framework",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BS_Gentle",
+      "name": "gentle"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is able to use oversized weapons.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small - Framework",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BS_Giant",
+      "name": "giant"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1,
+      "description": "Timmy always shies away from danger. he is usually the first to flee from battle.",
+      "stats": [
+        "+25% suppressability"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+25% suppressability"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Combat Extended",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Bravery",
+      "name": "cowardly"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1,
+      "description": "Few things scare Timmy. In battle he stands unfazed where others panic and flee.",
+      "stats": [
+        "-50% suppressability"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "-50% suppressability"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Combat Extended",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Bravery",
+      "name": "brave"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2,
+      "description": "Timmy laughs in the face of danger. Some ascribe it to bravery, others to stupidity. Either way, Timmy seems to lack any sense of self-preservation and will never flee from a threatening situation.",
+      "stats": [
+        "-100% suppressability"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "-100% suppressability"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Combat Extended",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Bravery",
+      "name": "fearless"
     }
   ],
   "races": [
@@ -8510,6 +8710,9 @@
         "stats": [
           "+60.00 Mass",
           "+70% Flammability",
+          "+1.0 Melee dodge chance",
+          "+100% Melee critical chance",
+          "+100% Melee parry chance",
           "+$1750 Market value",
           "+4.60 Move speed",
           "+28.8F Min comfortable temperature",
@@ -8533,6 +8736,9 @@
         "stats": [
           "+60.00 Mass",
           "+70% Flammability",
+          "+1.0 Melee dodge chance",
+          "+100% Melee critical chance",
+          "+100% Melee parry chance",
           "+$1750 Market value",
           "+4.60 Move speed",
           "+28.8F Min comfortable temperature",
