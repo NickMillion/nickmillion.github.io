@@ -330,12 +330,6 @@
     "version": "1.0.0+2534407508e276c66794b6b0ba18f36e2117384e"
   },
   {
-    "author": "NilchEi",
-    "name": "Dynamic Diplomacy - Continued",
-    "steamId": "3220299022",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Stormtrooper232",
     "name": "Dynamic Range - Vanilla Edition",
     "steamId": "3274034139",
@@ -660,18 +654,6 @@
     "version": null
   },
   {
-    "author": "Bonible",
-    "name": "Modded Weapon Sound Replacement",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Mehni",
-    "name": "More Faction Interaction (Continued)",
-    "steamId": "2379076640",
-    "version": "1.5.1"
-  },
-  {
     "author": "4loris4",
     "name": "More Linkables",
     "steamId": null,
@@ -908,36 +890,6 @@
   {
     "author": "rooki1",
     "name": "Rimsenal - Augmented Vanilla Pack",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "rooki1",
-    "name": "Rimsenal - Core",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "rooki1",
-    "name": "Rimsenal - Federation Faction Pack",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "rooki1",
-    "name": "Rimsenal - Feral Faction Pack",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "rooki1",
-    "name": "Rimsenal - Hair pack",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "rooki1",
-    "name": "Rimsenal - Spacer Faction Pack",
     "steamId": null,
     "version": null
   },
@@ -1230,12 +1182,6 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki, xrushha, SmashPhil and legodude17",
-    "name": "Vanilla Apparel Expanded — Accessories",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Neronix17",
     "name": "Vanilla Beards Retextured",
     "steamId": null,
@@ -1437,7 +1383,7 @@
     "author": "avilmask",
     "name": "Common Sense",
     "steamId": "1561769193",
-    "version": "1.0.9113.26296"
+    "version": "1.0.8911.30668"
   },
   {
     "author": "Farxmai2",
@@ -1692,16 +1638,16 @@
     "version": "1.0.1.2"
   },
   {
+    "author": "Oskar Potocki, Sarg Bjornson, erdelf, Roolo, Smash Phil, Taranchuk, xrushha, Kikohi and legodude17",
+    "name": "Vanilla Factions Expanded - Pirates",
+    "steamId": "2723801948",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "OskarPotocki, Atlas, Kikohi and Sarg",
     "name": "Vanilla Furniture Expanded",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Oskar Potocki, xrushha, legodude17 and ISOREX",
-    "name": "Vanilla Furniture Expanded - Architect",
-    "steamId": "2608762624",
-    "version": "1.0.0.0"
   },
   {
     "author": "Oskar Potocki, Trunken and Sarg",
@@ -1740,18 +1686,6 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki, AveryTheKitty and Taranchuk",
-    "name": "Vanilla Weapons Expanded - Coilguns",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki",
-    "name": "Vanilla Weapons Expanded - Laser",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "LimeTreeSnake",
     "name": "[LTS]Defense",
     "steamId": null,
@@ -1768,6 +1702,30 @@
     "name": "Alpha Mechs",
     "steamId": "2973169158",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Hobbes, Bambaryła",
+    "name": "Even More Linkables",
+    "steamId": "3057622081",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "GonDragon",
+    "name": "GonDragon's Tech Tree",
+    "steamId": "3328259983",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "DetVisor",
+    "name": "Impact Weaponry",
+    "steamId": "2965398269",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "turkler",
+    "name": "Imperial Hoplites",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Yyobov",
@@ -1806,12 +1764,6 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki, Sarg Bjornson, erdelf, Roolo, Smash Phil, Taranchuk, xrushha, Kikohi and legodude17",
-    "name": "Vanilla Factions Expanded - Pirates",
-    "steamId": "2723801948",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Oskar Potocki, Helixien, Erin, Luizi, ISOREX, erdelf and Sarg",
     "name": "Vanilla Textures Expanded",
     "steamId": "2016436324",
@@ -1820,6 +1772,24 @@
   {
     "author": "Sarg Bjornson",
     "name": "Vanilla Textures Expanded - Variations",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Aoba",
+    "name": "WarCasket Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "d0b1k",
+    "name": "Warcasket weaponry hyperlinks",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "FluffyTowels",
+    "name": "Warcaskets can haul!",
     "steamId": null,
     "version": null
   },
@@ -1842,38 +1812,14 @@
     "version": null
   },
   {
-    "author": "Hobbes, Bambaryła",
-    "name": "Even More Linkables",
-    "steamId": "3057622081",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "BotchJob",
     "name": "Gallatross and Friends Retextured",
     "steamId": null,
     "version": null
   },
   {
-    "author": "GonDragon",
-    "name": "GonDragon's Tech Tree",
-    "steamId": "3328259983",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Kor_HellCross",
     "name": "H.C_AnimalReskins_Complete (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "DetVisor",
-    "name": "Impact Weaponry",
-    "steamId": "2965398269",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "turkler",
-    "name": "Imperial Hoplites",
     "steamId": null,
     "version": null
   },
@@ -1922,24 +1868,6 @@
   {
     "author": "TBO",
     "name": "Visored Headgear",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Aoba",
-    "name": "WarCasket Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "d0b1k",
-    "name": "Warcasket weaponry hyperlinks",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "FluffyTowels",
-    "name": "Warcaskets can haul!",
     "steamId": null,
     "version": null
   },

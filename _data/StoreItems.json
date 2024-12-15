@@ -6238,7 +6238,7 @@
       "abr": "bigsingleshelf",
       "category": "Furniture",
       "defname": "ASF_BigSShelf",
-      "price": 440
+      "price": 220
     },
     {
       "abr": "clothingrack",
@@ -6304,7 +6304,7 @@
       "abr": "tallsingleshelf",
       "category": "Furniture",
       "defname": "ASF_VeryBigSShelf",
-      "price": 1100
+      "price": 554
     },
     {
       "abr": "weaponscabinet",
@@ -13174,25 +13174,25 @@
       "abr": "zombrella",
       "category": "Misc",
       "defname": "Zombrella",
-      "price": 6666
+      "price": 13332
     },
     {
       "abr": "nanotechslabbed",
       "category": "Furniture",
       "defname": "SlabBed_NanoBed",
-      "price": 374
+      "price": 748
     },
     {
       "abr": "nanotechslabdoublebed",
       "category": "Furniture",
       "defname": "SlabDoubleBed_NanoBed",
-      "price": 884
+      "price": 1768
     },
     {
       "abr": "nanotechsimplebed",
       "category": "Furniture",
       "defname": "Bed_Simple_NanoBed",
-      "price": 442
+      "price": 884
     },
     {
       "abr": "nanotechergonomicbed",
@@ -13204,20 +13204,1052 @@
       "abr": "nanotechergonomicdoublebed",
       "category": "Furniture",
       "defname": "Bed_DoubleErgonomic_NanoBed",
-      "price": 2034
+      "price": 4068
     },
     {
       "abr": "nanotechroyalposterbed",
       "category": "Furniture",
       "defname": "Bed_Kingsize_NanoBed",
-      "price": 4334
+      "price": 8668
     },
     {
       "abr": "nanotechoperatingtable",
       "category": "Furniture",
       "defname": "Bed_OperatingTable_NanoBed",
+      "price": 2368
+    },
+    {
+      "abr": "ammopack",
+      "category": "Utility",
+      "defname": "VAEA_Apparel_AmmoPack",
+      "price": 352
+    },
+    {
+      "abr": "amr",
+      "category": "JI weapons",
+      "defname": "JI_Gramr",
+      "price": 4284
+    },
+    {
+      "abr": "artilleryarmor",
+      "category": "Megacorp armors",
+      "defname": "Apparel_Korp",
+      "price": 10816
+    },
+    {
+      "abr": "assaultarmor",
+      "category": "Megacorp armors",
+      "defname": "Apparel_AssaultArmor",
+      "price": 7434
+    },
+    {
+      "abr": "assaulthammer",
+      "category": "Melee weapons",
+      "defname": "JI_Ormbane",
+      "price": 2734
+    },
+    {
+      "abr": "assaulthelmet",
+      "category": "Megacorp headgears",
+      "defname": "Apparel_AssaultArmorH",
+      "price": 2734
+    },
+    {
+      "abr": "auxiliarypistol",
+      "category": "Federation weapons",
+      "defname": "AD_AuxPistol",
+      "price": 596
+    },
+    {
+      "abr": "backpack",
+      "category": "Utility",
+      "defname": "VAEA_Apparel_Backpack",
+      "price": 362
+    },
+    {
+      "abr": "battlebanner",
+      "category": "Utility",
+      "defname": "VAEA_Apparel_BattleBanner",
+      "price": 186
+    },
+    {
+      "abr": "carver",
+      "category": "Melee weapons",
+      "defname": "Carver",
+      "price": 334
+    },
+    {
+      "abr": "cleaver",
+      "category": "Melee weapons",
+      "defname": "MeleeWeapon_FeralCleaver",
+      "price": 576
+    },
+    {
+      "abr": "closecombatarmor",
+      "category": "Megacorp armors",
+      "defname": "Apparel_CloseCombatArmor",
+      "price": 8100
+    },
+    {
+      "abr": "closecombathelmet",
+      "category": "Headgear",
+      "defname": "Apparel_CloseCombatHelmet",
+      "price": 2184
+    },
+    {
+      "abr": "combatblade",
+      "category": "Melee weapons",
+      "defname": "GD_Sabertooth",
+      "price": 934
+    },
+    {
+      "abr": "concussionbaton",
+      "category": "Melee weapons",
+      "defname": "AD_ConcussionBaton",
+      "price": 4600
+    },
+    {
+      "abr": "cruciblecarbine",
+      "category": "Federation weapons",
+      "defname": "AD_CrucibleCarbine",
+      "price": 3034
+    },
+    {
+      "abr": "cruciblecore",
+      "category": "Manufactured",
+      "defname": "CrucibleCore",
+      "price": 166
+    },
+    {
+      "abr": "cruciblepistol",
+      "category": "Federation weapons",
+      "defname": "AD_CruciblePistol",
+      "price": 1900
+    },
+    {
+      "abr": "crucibleprecisionrifle",
+      "category": "Federation weapons",
+      "defname": "AD_CruciblePresicionRifle",
+      "price": 4266
+    },
+    {
+      "abr": "cruciblerifle",
+      "category": "Federation weapons",
+      "defname": "AD_CrucibleRifle",
+      "price": 3216
+    },
+    {
+      "abr": "crystallinestructurefoundry",
+      "category": "Production",
+      "defname": "YPTable",
+      "price": 2234
+    },
+    {
+      "abr": "dropsuit",
+      "category": "Megacorp armors",
+      "defname": "Apparel_Dropsuit",
+      "price": 7100
+    },
+    {
+      "abr": "dropsuithelmet",
+      "category": "Megacorp headgears",
+      "defname": "Apparel_DropsuitH",
+      "price": 2400
+    },
+    {
+      "abr": "dualshardpistols",
+      "category": "YP weapons",
+      "defname": "YP_SeolHwa",
+      "price": 3284
+    },
+    {
+      "abr": "energycrucible",
+      "category": "Production",
+      "defname": "FedTable",
+      "price": 3784
+    },
+    {
+      "abr": "equipmentassemblyfacility",
+      "category": "Production",
+      "defname": "GDTable",
+      "price": 1216
+    },
+    {
+      "abr": "explosivebelt",
+      "category": "Utility",
+      "defname": "VAEA_Apparel_ExplosiveBelt",
+      "price": 406
+    },
+    {
+      "abr": "federationjumpsuit",
+      "category": "Apparel",
+      "defname": "FedSuit",
+      "price": 584
+    },
+    {
+      "abr": "feralanti-materialrifle",
+      "category": "Ranged weapons",
+      "defname": "Gun_Crucifier",
+      "price": 1234
+    },
+    {
+      "abr": "feralcrankgun",
+      "category": "Ranged weapons",
+      "defname": "Gun_SkullBuster",
+      "price": 2884
+    },
+    {
+      "abr": "feralexosuit",
+      "category": "Apparel",
+      "defname": "Apparel_FeralExo",
+      "price": 12000
+    },
+    {
+      "abr": "feralexosuithelmet",
+      "category": "Headgear",
+      "defname": "Apparel_FeralExoH",
+      "price": 5000
+    },
+    {
+      "abr": "feralflamethrower",
+      "category": "Ranged weapons",
+      "defname": "Gun_Scorcher",
+      "price": 1316
+    },
+    {
+      "abr": "feralgasmask",
+      "category": "Headgear",
+      "defname": "Apparel_ScorcherHelmet",
+      "price": 450
+    },
+    {
+      "abr": "feralhelmet",
+      "category": "Headgear",
+      "defname": "Apparel_GrinderHelmet",
+      "price": 450
+    },
+    {
+      "abr": "feralhood",
+      "category": "Headgear",
+      "defname": "Apparel_FeralHood",
+      "price": 326
+    },
+    {
+      "abr": "feralmail",
+      "category": "Apparel",
+      "defname": "Apparel_FeralMail",
+      "price": 1334
+    },
+    {
+      "abr": "feralnailgun",
+      "category": "Ranged weapons",
+      "defname": "Gun_Gnasher",
+      "price": 766
+    },
+    {
+      "abr": "feralpistols",
+      "category": "Ranged weapons",
+      "defname": "Gun_Scraptooth",
+      "price": 250
+    },
+    {
+      "abr": "feralratsticks",
+      "category": "Ranged weapons",
+      "defname": "Gun_RatStick",
+      "price": 666
+    },
+    {
+      "abr": "feralrifle",
+      "category": "Ranged weapons",
+      "defname": "Gun_Thrasher",
       "price": 1184
+    },
+    {
+      "abr": "feralrocketlauncher",
+      "category": "Ranged weapons",
+      "defname": "Gun_Thumper",
+      "price": 1334
+    },
+    {
+      "abr": "feralscattergun",
+      "category": "Ranged weapons",
+      "defname": "Gun_ScatterStick",
+      "price": 466
+    },
+    {
+      "abr": "feralsubmachineguns",
+      "category": "Ranged weapons",
+      "defname": "Gun_Deathdealer",
+      "price": 934
+    },
+    {
+      "abr": "firesupportarmor",
+      "category": "Megacorp armors",
+      "defname": "Apparel_FSArmor",
+      "price": 8434
+    },
+    {
+      "abr": "firesupporthelmet",
+      "category": "Megacorp headgears",
+      "defname": "Apparel_FSArmorH",
+      "price": 2634
+    },
+    {
+      "abr": "foerum",
+      "category": "Raw resources",
+      "defname": "Foerum",
+      "price": 22
+    },
+    {
+      "abr": "gausslance",
+      "category": "Ranged weapons",
+      "defname": "VWE_Gun_GaussLance",
+      "price": 7016
+    },
+    {
+      "abr": "gaussmagnum",
+      "category": "Ranged weapons",
+      "defname": "VWE_Gun_GaussMagnum",
+      "price": 1634
+    },
+    {
+      "abr": "gaussrifle",
+      "category": "Ranged weapons",
+      "defname": "VWE_Gun_GaussRifle",
+      "price": 2784
+    },
+    {
+      "abr": "gdbuckshotlauncher",
+      "category": "GD weapons",
+      "defname": "GD_BSLauncher",
+      "price": 1984
+    },
+    {
+      "abr": "gdincendiarylauncher",
+      "category": "GD weapons",
+      "defname": "GD_INGrenadeLauncher",
+      "price": 1984
+    },
+    {
+      "abr": "gdmultilauncher",
+      "category": "GD weapons",
+      "defname": "GD_GrenadeLauncher",
+      "price": 1984
+    },
+    {
+      "abr": "gdsmokelauncher",
+      "category": "GD weapons",
+      "defname": "GD_SKGrenadeLauncher",
+      "price": 1984
+    },
+    {
+      "abr": "glaive",
+      "category": "Melee weapons",
+      "defname": "MeleeWeapon_FeralGlaive",
+      "price": 716
+    },
+    {
+      "abr": "hazardcarapace",
+      "category": "Megacorp armors",
+      "defname": "Apparel_HazardCarapace",
+      "price": 8116
+    },
+    {
+      "abr": "hazardhelmet",
+      "category": "Megacorp headgears",
+      "defname": "Apparel_HazardCarapaceH",
+      "price": 2216
+    },
+    {
+      "abr": "heatprojector",
+      "category": "Federation weapons",
+      "defname": "AD_HeatProjector",
+      "price": 5816
+    },
+    {
+      "abr": "huskerhood",
+      "category": "Headgear",
+      "defname": "Apparel_HuskerHood",
+      "price": 326
+    },
+    {
+      "abr": "impactknuckle",
+      "category": "Melee weapons",
+      "defname": "TE_Eris",
+      "price": 1800
+    },
+    {
+      "abr": "kineticfieldmanipulator",
+      "category": "Production",
+      "defname": "TETable",
+      "price": 2284
+    },
+    {
+      "abr": "kineticlance",
+      "category": "TE weapons",
+      "defname": "TE_KineticLance",
+      "price": 5884
+    },
+    {
+      "abr": "kineticlongrifle",
+      "category": "TE weapons",
+      "defname": "TE_KineticLongRifle",
+      "price": 3866
+    },
+    {
+      "abr": "kineticpistol",
+      "category": "TE weapons",
+      "defname": "TE_KineticPistol",
+      "price": 1800
+    },
+    {
+      "abr": "kineticrifle",
+      "category": "TE weapons",
+      "defname": "TE_KineticRifle",
+      "price": 3400
+    },
+    {
+      "abr": "laserminigun",
+      "category": "Ranged weapons",
+      "defname": "VWEL_Gun_LaserMinigun",
+      "price": 15000
+    },
+    {
+      "abr": "laserpistol",
+      "category": "Ranged weapons",
+      "defname": "VWEL_Gun_LaserPistol",
+      "price": 6666
+    },
+    {
+      "abr": "laserrifle",
+      "category": "Ranged weapons",
+      "defname": "VWEL_Gun_LaserRifle",
+      "price": 10000
+    },
+    {
+      "abr": "lasershotgun",
+      "category": "Ranged weapons",
+      "defname": "VWEL_Gun_LaserShotgun",
+      "price": 10666
+    },
+    {
+      "abr": "lasersmg",
+      "category": "Ranged weapons",
+      "defname": "VWEL_Gun_LaserSMG",
+      "price": 8000
+    },
+    {
+      "abr": "lasersniperrifle",
+      "category": "Ranged weapons",
+      "defname": "VWEL_Gun_LaserSniperRifle",
+      "price": 12000
+    },
+    {
+      "abr": "lasersword",
+      "category": "Melee weapons",
+      "defname": "VWEL_LaserSword",
+      "price": 6666
+    },
+    {
+      "abr": "madness",
+      "category": "Ranged weapons",
+      "defname": "Weapon_MADness",
+      "price": 4234
+    },
+    {
+      "abr": "magneticforge",
+      "category": "Production",
+      "defname": "JITable",
+      "price": 2450
+    },
+    {
+      "abr": "makeshiftcruciblerifle",
+      "category": "Ranged weapons",
+      "defname": "Gun_MCrucibleRifle",
+      "price": 816
+    },
+    {
+      "abr": "marksmangear",
+      "category": "Apparel",
+      "defname": "Apparel_MarksmanGear",
+      "price": 4516
+    },
+    {
+      "abr": "marksmangearhelmet",
+      "category": "Headgear",
+      "defname": "Apparel_MarksmanGearH",
+      "price": 1950
+    },
+    {
+      "abr": "medicbag",
+      "category": "Utility",
+      "defname": "VAEA_Apparel_MedicBag",
+      "price": 264
+    },
+    {
+      "abr": "medichelmet",
+      "category": "Megacorp headgears",
+      "defname": "Apparel_MedicH",
+      "price": 1866
+    },
+    {
+      "abr": "microwaveemmiter",
+      "category": "YP weapons",
+      "defname": "YP_GeugGwang",
+      "price": 4950
+    },
+    {
+      "abr": "microwavegrenades",
+      "category": "Grenades",
+      "defname": "YP_BaegYa",
+      "price": 1600
+    },
+    {
+      "abr": "minigrenades",
+      "category": "Grenades",
+      "defname": "GD_Bobcat",
+      "price": 1150
+    },
+    {
+      "abr": "mini-turretpack",
+      "category": "Utility",
+      "defname": "VAEA_Apparel_MiniTurretPack",
+      "price": 388
+    },
+    {
+      "abr": "modularacceleratorkit",
+      "category": "Greydale modular conversion kit",
+      "defname": "MRSKitH",
+      "price": 1716
+    },
+    {
+      "abr": "modulararmorkit",
+      "category": "Greydale modular conversion kit",
+      "defname": "MBPSKit",
+      "price": 2716
+    },
+    {
+      "abr": "modularcarbine",
+      "category": "GD weapons",
+      "defname": "GD_ModularCarbine",
+      "price": 1466
+    },
+    {
+      "abr": "modulardmr",
+      "category": "GD weapons",
+      "defname": "GD_ModularDMR",
+      "price": 1984
+    },
+    {
+      "abr": "modularflakker",
+      "category": "GD weapons",
+      "defname": "GD_MSSF",
+      "price": 1216
+    },
+    {
+      "abr": "modularhybridpistol",
+      "category": "GD weapons",
+      "defname": "GD_MSSH",
+      "price": 2934
+    },
+    {
+      "abr": "modularhybridrifle",
+      "category": "GD weapons",
+      "defname": "GD_HybridRifle",
+      "price": 3184
+    },
+    {
+      "abr": "modularlmg",
+      "category": "GD weapons",
+      "defname": "GD_ModularLMG",
+      "price": 1984
+    },
+    {
+      "abr": "modularmedicarmor",
+      "category": "GD Modular Body Protection Ststem",
+      "defname": "Apparel_MedicArmor",
+      "price": 5284
+    },
+    {
+      "abr": "modularnomadarmor",
+      "category": "GD Modular Body Protection Ststem",
+      "defname": "Apparel_NomadArmor",
+      "price": 5284
+    },
+    {
+      "abr": "modularpioneerarmor",
+      "category": "GD Modular Body Protection Ststem",
+      "defname": "Apparel_PioneerArmor",
+      "price": 5284
+    },
+    {
+      "abr": "modularrifle",
+      "category": "GD weapons",
+      "defname": "GD_ModularRifle",
+      "price": 1984
+    },
+    {
+      "abr": "modularsecurityarmor",
+      "category": "Megacorp armors",
+      "defname": "Apparel_SecurityArmor",
+      "price": 2566
+    },
+    {
+      "abr": "modularsidearmsystemkit",
+      "category": "Greydale modular conversion kit",
+      "defname": "MSSKit",
+      "price": 1216
+    },
+    {
+      "abr": "modularspitfire",
+      "category": "GD weapons",
+      "defname": "GD_MSSS",
+      "price": 1216
+    },
+    {
+      "abr": "modulartriple-shot",
+      "category": "GD weapons",
+      "defname": "GD_MSST",
+      "price": 1216
+    },
+    {
+      "abr": "moltenpistol",
+      "category": "JI weapons",
+      "defname": "JI_Trollsverd",
+      "price": 1800
+    },
+    {
+      "abr": "moltenrifle",
+      "category": "JI weapons",
+      "defname": "JI_Hrunting",
+      "price": 3166
+    },
+    {
+      "abr": "mrsconversionkit",
+      "category": "Greydale modular conversion kit",
+      "defname": "MRSKitR",
+      "price": 520
+    },
+    {
+      "abr": "nomadhelmet",
+      "category": "Megacorp headgears",
+      "defname": "Apparel_NomadH",
+      "price": 1384
+    },
+    {
+      "abr": "nutrientpackagedmeal",
+      "category": "Meals",
+      "defname": "MealNutrientPackaged",
+      "price": 50
+    },
+    {
+      "abr": "nutrientprocessor",
+      "category": "Production",
+      "defname": "NutrientProcessor",
+      "price": 2900
+    },
+    {
+      "abr": "omnifoam",
+      "category": "Raw resources",
+      "defname": "Omnifoam",
+      "price": 6
+    },
+    {
+      "abr": "patchedshirt",
+      "category": "Apparel",
+      "defname": "Apparel_PatchedShirt",
+      "price": 334
+    },
+    {
+      "abr": "pioneerhelmet",
+      "category": "Megacorp headgears",
+      "defname": "Apparel_PioneerH",
+      "price": 1900
+    },
+    {
+      "abr": "plasmacaliver",
+      "category": "Federation weapons",
+      "defname": "AD_PlasmaCaliver",
+      "price": 9884
+    },
+    {
+      "abr": "plasmagrenade",
+      "category": "Grenades",
+      "defname": "AD_FedPlasmaGrenades",
+      "price": 3000
+    },
+    {
+      "abr": "plasmarifle",
+      "category": "Federation weapons",
+      "defname": "AD_Sentinel",
+      "price": 9634
+    },
+    {
+      "abr": "quiver",
+      "category": "Utility",
+      "defname": "VAEA_Apparel_Quiver",
+      "price": 28
+    },
+    {
+      "abr": "rangedshieldbelt",
+      "category": "Utility",
+      "defname": "VAEA_Apparel_RangedShieldBelt",
+      "price": 1300
+    },
+    {
+      "abr": "reflactorcarapace",
+      "category": "Megacorp armors",
+      "defname": "Apparel_ReflactorArmor",
+      "price": 6700
+    },
+    {
+      "abr": "reflactorhelmet",
+      "category": "Megacorp headgears",
+      "defname": "Apparel_ReflactorArmorH",
+      "price": 2234
+    },
+    {
+      "abr": "ressurectorbelt",
+      "category": "Utility",
+      "defname": "VAEA_Apparel_RessurectorBelt",
+      "price": 5666
+    },
+    {
+      "abr": "riotgear",
+      "category": "Apparel",
+      "defname": "Apparel_Judicator",
+      "price": 7350
+    },
+    {
+      "abr": "riotgearhelmet",
+      "category": "Headgear",
+      "defname": "Apparel_JudicatorH",
+      "price": 2884
+    },
+    {
+      "abr": "salvagedlaserpistol",
+      "category": "Ranged weapons",
+      "defname": "VWEL_Gun_SalvagedLaserPistol",
+      "price": 5000
+    },
+    {
+      "abr": "salvagedlaserrifle",
+      "category": "Ranged weapons",
+      "defname": "VWEL_Gun_SalvagedLaserRifle",
+      "price": 6500
+    },
+    {
+      "abr": "salvagedlasershotgun",
+      "category": "Ranged weapons",
+      "defname": "VWEL_Gun_SalvagedLaserShotgun",
+      "price": 6834
+    },
+    {
+      "abr": "salvagedlasersniperrifle",
+      "category": "Ranged weapons",
+      "defname": "VWEL_Gun_SalvagedLaserSniperRifle",
+      "price": 7334
+    },
+    {
+      "abr": "satchelcharge",
+      "category": "Grenades",
+      "defname": "JI_Dunder",
+      "price": 2034
+    },
+    {
+      "abr": "scavengerbench",
+      "category": "Production",
+      "defname": "FeralTable",
+      "price": 572
+    },
+    {
+      "abr": "scraparmor",
+      "category": "Apparel",
+      "defname": "Apparel_ScrapArmor",
+      "price": 1000
+    },
+    {
+      "abr": "securityhelmet",
+      "category": "Megacorp headgears",
+      "defname": "Apparel_SecurityHelmet",
+      "price": 1200
+    },
+    {
+      "abr": "shardrifle",
+      "category": "YP weapons",
+      "defname": "YP_SeoLi",
+      "price": 3484
+    },
+    {
+      "abr": "siegegun",
+      "category": "JI weapons",
+      "defname": "JI_Grendel",
+      "price": 8284
+    },
+    {
+      "abr": "siegeshotgun",
+      "category": "JI weapons",
+      "defname": "JI_Fafnir",
+      "price": 4034
+    },
+    {
+      "abr": "singularitygrenades",
+      "category": "Grenades",
+      "defname": "TE_Grief",
+      "price": 1600
+    },
+    {
+      "abr": "singularityprojector",
+      "category": "TE weapons",
+      "defname": "TE_StormCannon",
+      "price": 5900
+    },
+    {
+      "abr": "skulkerhood",
+      "category": "Headgear",
+      "defname": "Apparel_SkulkerHood",
+      "price": 326
+    },
+    {
+      "abr": "smartassaultrifle",
+      "category": "Ranged weapons",
+      "defname": "Gun_SmartAssaultRifle",
+      "price": 2834
+    },
+    {
+      "abr": "smartbolt-actionrifle",
+      "category": "Ranged weapons",
+      "defname": "Gun_SmartBoltActionRifle",
+      "price": 1634
+    },
+    {
+      "abr": "smartchainshotgun",
+      "category": "Ranged weapons",
+      "defname": "Gun_SmartChainShotgun",
+      "price": 2584
+    },
+    {
+      "abr": "smartchargelance",
+      "category": "Ranged weapons",
+      "defname": "Gun_SmartChargeLance",
+      "price": 7850
+    },
+    {
+      "abr": "smartchargerifle",
+      "category": "Ranged weapons",
+      "defname": "Gun_SmartChargeRifle",
+      "price": 6700
+    },
+    {
+      "abr": "smartgrenades",
+      "category": "Grenades",
+      "defname": "Weapon_GrenadeSmart",
+      "price": 2216
+    },
+    {
+      "abr": "smartlmg",
+      "category": "Ranged weapons",
+      "defname": "Gun_SmartLMG",
+      "price": 2650
+    },
+    {
+      "abr": "smartmachinepistol",
+      "category": "Ranged weapons",
+      "defname": "Gun_SmartMachinePistol",
+      "price": 1516
+    },
+    {
+      "abr": "smartminigun",
+      "category": "Ranged weapons",
+      "defname": "Gun_SmartMinigun",
+      "price": 7566
+    },
+    {
+      "abr": "smartpistol",
+      "category": "Ranged weapons",
+      "defname": "Gun_SmartAutoPistol",
+      "price": 1250
+    },
+    {
+      "abr": "smartpumpshotgun",
+      "category": "Ranged weapons",
+      "defname": "Gun_SmartPumpShotgun",
+      "price": 1634
+    },
+    {
+      "abr": "smartrevolver",
+      "category": "Ranged weapons",
+      "defname": "Gun_SmartRevolver",
+      "price": 1234
+    },
+    {
+      "abr": "smartsmg",
+      "category": "Ranged weapons",
+      "defname": "Gun_SmartHeavySMG",
+      "price": 2416
+    },
+    {
+      "abr": "smartsniperrifle",
+      "category": "Ranged weapons",
+      "defname": "Gun_SniperRifleSmart",
+      "price": 3000
+    },
+    {
+      "abr": "smartsword",
+      "category": "Melee weapons",
+      "defname": "MeleeWeapon_SmartSword",
+      "price": 4300
+    },
+    {
+      "abr": "smartvisor",
+      "category": "Headgear",
+      "defname": "Apparel_SmartVisor",
+      "price": 1184
+    },
+    {
+      "abr": "spacerbodysuit",
+      "category": "Apparel",
+      "defname": "Carbonsuit",
+      "price": 1216
+    },
+    {
+      "abr": "spikelance",
+      "category": "YP weapons",
+      "defname": "YP_SangAe",
+      "price": 6484
+    },
+    {
+      "abr": "strikesuit",
+      "category": "Megacorp armors",
+      "defname": "Apparel_Strikesuit",
+      "price": 7134
+    },
+    {
+      "abr": "strikesuithelmet",
+      "category": "Megacorp headgears",
+      "defname": "Apparel_StrikesuitH",
+      "price": 2234
+    },
+    {
+      "abr": "suppressorcannon",
+      "category": "JI weapons",
+      "defname": "JI_Muspell",
+      "price": 4366
+    },
+    {
+      "abr": "survivalstation",
+      "category": "Production",
+      "defname": "SurvivalStation",
+      "price": 1600
+    },
+    {
+      "abr": "swarmer",
+      "category": "YP weapons",
+      "defname": "YP_SagPung",
+      "price": 3200
+    },
+    {
+      "abr": "techprint(smartweapons)",
+      "category": "Techprints",
+      "defname": "Techprint_SmartWeapons",
+      "price": 10000
+    },
+    {
+      "abr": "teslagun",
+      "category": "Ranged weapons",
+      "defname": "VWEL_Gun_TeslaGun",
+      "price": 10000
+    },
+    {
+      "abr": "thuddgun",
+      "category": "TE weapons",
+      "defname": "TE_ThuddGun",
+      "price": 4150
+    },
+    {
+      "abr": "thumperhood",
+      "category": "Headgear",
+      "defname": "Apparel_ThumperHood",
+      "price": 326
+    },
+    {
+      "abr": "toolbelt",
+      "category": "Utility",
+      "defname": "VAEA_Apparel_ToolBelt",
+      "price": 332
+    },
+    {
+      "abr": "torchsword",
+      "category": "Melee weapons",
+      "defname": "MeleeWeapon_TorchSword",
+      "price": 2484
+    },
+    {
+      "abr": "unisuit",
+      "category": "Misc",
+      "defname": "Apparel_Unisuit",
+      "price": 700
+    },
+    {
+      "abr": "unityguardcloak",
+      "category": "Apparel",
+      "defname": "Apparel_UGCloak",
+      "price": 334
+    },
+    {
+      "abr": "unityguardcuraiss",
+      "category": "Apparel",
+      "defname": "Apparel_UGCuirass",
+      "price": 3484
+    },
+    {
+      "abr": "unityguardhelmet",
+      "category": "Headgear",
+      "defname": "Apparel_UGHelmet",
+      "price": 2216
+    },
+    {
+      "abr": "vectorshot",
+      "category": "YP weapons",
+      "defname": "YP_VectorShot",
+      "price": 4600
+    },
+    {
+      "abr": "vibro-dagger",
+      "category": "Melee weapons",
+      "defname": "YP_BingJu",
+      "price": 2650
+    },
+    {
+      "abr": "warcasketlaserblaster",
+      "category": "Ranged weapons",
+      "defname": "VFEP_WarcasketGun_LaserBlaster",
+      "price": 10666
+    },
+    {
+      "abr": "warcasketrailgun",
+      "category": "Ranged weapons",
+      "defname": "VFEP_WarcasketGun_Railgun",
+      "price": 10666
+    },
+    {
+      "abr": "warcasketrailgun",
+      "category": "Misc",
+      "defname": "VFEP_Box_Railgun",
+      "price": 10666
+    },
+    {
+      "abr": "warcasketsalvagedlasereradicator",
+      "category": "Ranged weapons",
+      "defname": "VFEP_WarcasketGun_SalvagedLaserEradicator",
+      "price": 13666
+    },
+    {
+      "abr": "warcasketsalvagedlasereradicator",
+      "category": "Misc",
+      "defname": "VFEP_Box_SalvagedLaserEradicator",
+      "price": 13666
     }
   ],
-  "total": 2203
+  "total": 2375
 }
